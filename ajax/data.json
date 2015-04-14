@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"FizzBuzz",
+        "description":"Write a program that prints the numbers from 1 to 100. But for multiples of three print \"Fizz\" instead of the number and for the multiples of five print \"Buzz\". For numbers which are multiples of both three and five print \"FizzBuzz\"."
+    },
+    {
+        "id":2,
+        "name":"Primes",
+        "description":"Write a program to find the number of prime numbers less than or equal to a given number."
+    },
+    {
+        "id":3,
+        "name":"AJAX",
+        "description":"Write a JavaScript snippet to populate an HTML table."
+    }
+]
