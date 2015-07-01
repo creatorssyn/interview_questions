@@ -6,8 +6,8 @@
     },
     {
         "id":2,
-        "name":"Primes",
-        "description":"Write a program to find the number of prime numbers less than or equal to a given number."
+        "name":"Longest Palindrome",
+        "description":"Find and print the longest palindrome in a random string."
     },
     {
         "id":3,
